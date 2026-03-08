@@ -1,0 +1,11 @@
+{
+  "name": "demo-showcase",
+  "version": "0.1.0",
+  "description": "Automatically explore a web app, capture screenshots, and generate a polished HTML showcase page with descriptions",
+  "author": {
+    "name": "Noam Raz",
+    "url": "https://raz.net"
+  },
+  "license": "MIT",
+  "keywords": ["demo", "screenshots", "showcase", "documentation", "playwright"]
+}
