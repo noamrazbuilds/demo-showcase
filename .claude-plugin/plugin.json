@@ -6,6 +6,21 @@
     "name": "Noam Raz",
     "url": "https://raz.net"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noamraz/demo-showcase"
+  },
+  "homepage": "https://github.com/noamraz/demo-showcase",
   "license": "MIT",
-  "keywords": ["demo", "screenshots", "showcase", "documentation", "playwright"]
+  "keywords": ["demo", "screenshots", "showcase", "documentation", "playwright"],
+  "engines": {
+    "claude-code": ">=1.0.0"
+  },
+  "categories": ["documentation", "developer-tools"],
+  "commands": [
+    "commands/demo-showcase.md"
+  ],
+  "skills": [
+    "skills/app-showcase"
+  ]
 }
