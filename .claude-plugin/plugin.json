@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/noamraz/demo-showcase"
+    "url": "https://github.com/noamrazbuilds/demo-showcase"
   },
-  "homepage": "https://github.com/noamraz/demo-showcase",
+  "homepage": "https://github.com/noamrazbuilds/demo-showcase",
   "license": "MIT",
   "keywords": ["demo", "screenshots", "showcase", "documentation", "playwright"],
   "engines": {
